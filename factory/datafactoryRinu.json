@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryRinu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "69af4ad8-9d52-41b7-8726-42386ae7e6b8",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
